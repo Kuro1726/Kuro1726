@@ -44,18 +44,18 @@ Unity Developer Intern/Fresher opportunities.
 
 ### 🚀 Featured Projects
 
-#### 🏆 [Finask](https://github.com/Kuro1726/GameJam2026) (Global Game Jam Vietnam 2026) - **2nd Place**
+####  [Finask](https://github.com/Kuro1726/GameJam2026) (Global Game Jam Vietnam 2026) - **2nd Place**
 * **Role:** Game Designer, Game Developer
 * **Tech:** Unity, C#, Tilemap System, Figma, Miro.
 * **Key Implementation:** Co-authored the GDD and delivered a playable 2D action-survival game within a 36-hour limit. Implemented core gameplay physics including Double Jump, Teleportation, and Gravity Inversion.
 * 🎮 [Playable Build](https://s.jsclub.dev/gamejam2026)
 
-#### 🚀 [LuaLander Clone](https://github.com/Kuro1726/LuaLander) (Personal Project)
+####  [LuaLander Clone](https://github.com/Kuro1726/LuaLander) (Personal Project)
 * **Tech:** Unity, C#, Rigidbody2D, UGUI, Singleton Pattern, Finite State Machine (FSM).
 * **Key Implementation:** Built a modular architecture using C# Actions/Events to decouple gameplay logic; calculated spacecraft alignment using `Vector2.Dot`; and managed system lifecycles to completely prevent memory leaks.
 * 🎮 [Playable Build](https://kuro1726.itch.io/lua-lander-clone)
 
-#### 🧩 [Knight Grid's Quest](https://github.com/Kuro1726/KnightGridQuest) (Personal Project)
+####  [Knight Grid's Quest](https://github.com/Kuro1726/KnightGridQuest) (Personal Project)
 * **Tech:** Unity, Grid-based System, Raycast2D & OverlapBox2D, Design Patterns.
 * **Key Implementation:** Designed a custom 2D coordinate system and multi-dimensional matrix to control 1x1 tile grid movement; utilized Raycast2D and OverlapBox2D for puzzle mechanics and environment state interactions.
 

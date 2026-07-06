@@ -6,19 +6,21 @@
 
 ---
 
-### 👤 About Me
-Hello! I'm **Pham Anh Tu**, a Software Engineering student specializing in **Game Development** at **FPT University Hanoi** under a 100% full-program tuition scholarship. I also serve as the **President of Gen 13 at JS Club** (Japanese Software Engineers).
+## 👋 About Me
 
-As an aspiring **Unity Developer Intern**, I possess strong foundations in C# and Unity architecture, with a particular focus on performance optimization, clean code design patterns, and engaging gameplay mechanics. I am highly passionate about deconstructing mechanics to master production pipelines.
+Hi, I'm **Pham Anh Tu**, a Software Engineering student at **FPT University**, specializing in **Game Development**.
 
-* 🛠️ **Current Goal:** Seeking a 6-month Full-time Unity Developer Intern position.
-* 🏆 **Highlight:** Awarded **2nd Place at Global Game Jam Vietnam 2026** (organized by GameGeek).
-* 💬 **Core Strengths:** C#, Unity Architecture, Design Patterns (FSM, Singleton, Observer), Languages (IELTS 6.5, Basic Japanese).
+I'm passionate about building gameplay systems with **Unity** and **C#**, with a strong interest in clean architecture, design patterns, and performance optimization. I enjoy turning game ideas into maintainable and scalable projects while continuously improving my programming skills.
 
-<p align="left">
-  <a href="mailto:anhtupham17.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/anh.tu.pham.169980"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+### Currently
+- 🎮 Looking for **Unity Developer Intern/Fresher** opportunities
+- 🌱 Learning **Game Architecture**, **Design Patterns**, and **Performance Optimization**
+- 🚀 Building personal Unity projects to strengthen gameplay programming skills
+
+### Highlights
+- 🏆 2nd Place — Global Game Jam Vietnam 2026
+- 🎓 100% Tuition Scholarship Student
+- 👨‍💻 President of Gen 13 — JS Club (Japanese Software Engineers)
 
 ---
 

@@ -54,6 +54,9 @@ Unity Developer Intern/Fresher opportunities.
 * **Tech:** Unity, C#, Rigidbody2D, UGUI, Singleton Pattern, Finite State Machine (FSM).
 * **Key Implementation:** Built a modular architecture using C# Actions/Events to decouple gameplay logic; calculated spacecraft alignment using `Vector2.Dot`; and managed system lifecycles to completely prevent memory leaks.
 * [Playable Build](https://kuro1726.itch.io/lua-lander-clone)
+<p align="center">
+  <img src="Images/ezgif-199d7f00a40b55ff.gif" alt="Gameplay Demo" width="600"/>
+</p>
 
 ####  [Knight Grid's Quest](https://github.com/Kuro1726/KnightGridQuest) (Personal Project)
 * **Tech:** Unity, Grid-based System, Raycast2D & OverlapBox2D, Design Patterns.

@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
 Hi, I'm **Phạm Anh Tú**, a Software Engineering student at **FPT University**, specializing in Game Development.
 

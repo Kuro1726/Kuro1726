@@ -6,21 +6,28 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi, I'm **Pham Anh Tu**, a Software Engineering student at **FPT University**, specializing in **Game Development**.
+Hi, I'm **Phạm Anh Tú**, a Software Engineering student at **FPT University**, specializing in Game Development.
 
-I'm passionate about building gameplay systems with **Unity** and **C#**, with a strong interest in clean architecture, design patterns, and performance optimization. I enjoy turning game ideas into maintainable and scalable projects while continuously improving my programming skills.
+I'm interested in Gameplay Programming, Unity Architecture, Design Patterns, and Performance Optimization. I enjoy building maintainable gameplay systems and continuously improving my software engineering skills.
 
-### Currently
-- 🎮 Looking for **Unity Developer Intern/Fresher** opportunities
-- 🌱 Learning **Game Architecture**, **Design Patterns**, and **Performance Optimization**
-- 🚀 Building personal Unity projects to strengthen gameplay programming skills
+### Looking For
+
+Unity Developer Intern/Fresher opportunities.
+
+### Currently Learning
+
+- Game Architecture
+- Design Patterns
+- Performance Optimization
+- Multiplayer Fundamentals
 
 ### Highlights
-- 🏆 2nd Place — Global Game Jam Vietnam 2026
-- 🎓 100% Tuition Scholarship Student
-- 👨‍💻 President of Gen 13 — JS Club (Japanese Software Engineers)
+
+- Global Game Jam Vietnam 2026 – 2nd Place
+- 100% Tuition Scholarship Student
+- President of JS Club Gen 13
 
 ---
 

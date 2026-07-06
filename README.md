@@ -1,4 +1,4 @@
-# 🎮 Unity Developer
+# 🎮 Unity Developer (Intern/Fresher)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuro1726&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -38,7 +38,7 @@ Unity Developer Intern/Fresher opportunities.
 | **Languages** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> |
 | **Game Engines** | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> *(Editor, Tilemap, UGUI)* |
 | **IDE & Tools** | <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=jetbrains-rider&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
-| **Core Concepts** | OOP, Data Structures & Algorithms, Game Physics, Design Patterns *(FSM, Singleton, Observer)* |
+| **Core Concepts** | OOP, Data Structures & Algorithms, 2D Physics (Rigidbody2D, Raycast2D, OverlapBox), Design Patterns *(FSM, Singleton, Observer)* |
 
 ---
 

@@ -4,14 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=Kuro1726&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <em>"Driven by logic, passion, and the art of game production pipelines."</em>
-</p>
-
 ---
 
 ### 👤 About Me
-Hello! I'm **Phạm Anh Tú**, a Software Engineering student specializing in **Game Development** at **FPT University Hanoi** under a 100% full-program tuition scholarship. I also serve as the **President of Gen 13 at JS Club** (Japanese Software Engineers).
+Hello! I'm **Pham Anh Tu**, a Software Engineering student specializing in **Game Development** at **FPT University Hanoi** under a 100% full-program tuition scholarship. I also serve as the **President of Gen 13 at JS Club** (Japanese Software Engineers).
 
 As an aspiring **Unity Developer Intern**, I possess strong foundations in C# and Unity architecture, with a particular focus on performance optimization, clean code design patterns, and engaging gameplay mechanics[cite: 1]. I am highly passionate about deconstructing mechanics to master production pipelines[cite: 1].
 

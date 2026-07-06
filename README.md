@@ -64,11 +64,6 @@ Unity Developer Intern/Fresher opportunities.
 ### 📊 GitHub Stats & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuro1726&show_icons=true&theme=react&border_radius=10" alt="Kuro1726's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro1726&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuro1726&theme=react-dark&area=true" alt="Kuro1726's Contribution Graph" width="98%" />
 </p>
 

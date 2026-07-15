@@ -10,8 +10,6 @@
 
 Hi, I'm **Phạm Anh Tú**, a Software Engineering student at **FPT University**, specializing in Game Development.
 
-I'm interested in Gameplay Programming, Unity Architecture, Design Patterns, and Performance Optimization. I enjoy building maintainable gameplay systems and continuously improving my software engineering skills.
-
 ### Looking For
 
 Unity Developer Intern/Fresher opportunities.

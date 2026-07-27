@@ -29,14 +29,15 @@ Unity Developer Intern/Fresher opportunities.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> |
-| **Game Engines** | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> *(Editor, Tilemap, UGUI)* |
-| **IDE & Tools** | <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=jetbrains-rider&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
-| **Core Concepts** | OOP, Data Structures & Algorithms, 2D Physics (Rigidbody2D, Raycast2D, OverlapBox), Design Patterns *(FSM, Singleton, Observer)* |
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Game Engine & Systems** | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Physics2D](https://img.shields.io/badge/Physics2D-00599C?style=for-the-badge) ![DOTween](https://img.shields.io/badge/DOTween-FF4081?style=for-the-badge) ![ScriptableObjects](https://img.shields.io/badge/Scriptable_Objects-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| **Testing & Quality** | ![NUnit](https://img.shields.io/badge/NUnit-25B728?style=for-the-badge&logo=nunit&logoColor=white) ![Unity Test Framework](https://img.shields.io/badge/Unity_Test_Framework-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| **Design Patterns** | ![Object Pooling](https://img.shields.io/badge/Object_Pooling-4B0082?style=for-the-badge) ![FSM](https://img.shields.io/badge/FSM_(State_Machine)-2E8B57?style=for-the-badge) ![Observer Pattern](https://img.shields.io/badge/Observer_Pattern-4682B4?style=for-the-badge) |
+| **Tools & IDEs** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 

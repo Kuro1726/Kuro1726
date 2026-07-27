@@ -16,9 +16,9 @@
   <a href="https://kuro1726.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-kuro1726-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" />
   </a>
-  <a href="https://linkedin.com/in/tu-pham-anh-577489335" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ph%C6%B0%C6%A1ng_Anh_T%C3%BA-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/in/tu-pham-anh-577489335" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ph%E1%BA%A1m_Anh_T%C3%BA-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
   <a href="mailto:anhtupham17.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-anhtupham17.work@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" />
   </a>

@@ -1,5 +1,7 @@
 # 🎮 Unity Developer Intern
-
+[![Itch.io](https://img.shields.io/badge/Itch.io-kuro1726-FA5C5C?style=flat&logo=itch.io)](https://kuro1726.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ph%C6%B0%C6%A1ng_Anh_T%C3%BA-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tu-pham-anh-577489335)
+[![Email](https://img.shields.io/badge/Email-anhtupham17.work@gmail.com-D14836?style=flat&logo=gmail)](mailto:anhtupham17.work@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuro1726&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />

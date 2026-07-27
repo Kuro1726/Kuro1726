@@ -48,13 +48,13 @@ Unity Developer Intern/Fresher opportunities.
 - Optimized runtime instantiation using prewarmed level-aware **Object Pools** for collectors, blocks, audio, and VFX.
 - Built **EditMode/PlayMode unit tests** and 100-cycle object-pool stress scenarios using **NUnit**.
 
-####  [Finask](https://github.com/hvu2005/GameJam2026) (Global Game Jam Vietnam 2026)
+#### 🥇 [Finask](https://github.com/hvu2005/GameJam2026) | [Playable Build](https://s.jsclub.dev/gamejam2026)
 *2D Puzzle Platformer | Global Game Jam 2026 (2nd Place Winner)*
 - Built modular prefab-based levels using **Unity Tilemap/Grid** with level-loading pipelines backboned by ScriptableObjects.
 - Developed mechanic abilities including **Double Jump, Teleportation,** and **Gravity Inversion**.
 * [Playable Build](https://s.jsclub.dev/gamejam2026)
 
-####  [LuaLander Clone](https://github.com/Kuro1726/LuaLander) (Personal Project)
+#### 🚀 [LuaLander Clone](https://github.com/Kuro1726/LuaLander) | [Playable Build](https://kuro1726.itch.io/lua-lander-clone)
 *2D Physics-based Lunar Landing Game | Personal Project (May 2026 – June 2026)*
 - Used **C# Events** and an enum-based **FSM** to decouple gameplay, UI, audio, and VFX systems.
 - Validated landing physics using **Rigidbody2D** impact velocity and orientation alignment (`Vector2.Dot`).

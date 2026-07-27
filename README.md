@@ -31,9 +31,9 @@
 Hi, I'm **Phạm Anh Tú**, a Software Engineering student at **FPT University**, specializing in Game Development.
 
 ### 🚀 Highlights & Achievements
-- 🏆 **2nd Place** — Global Game Jam Vietnam 2026 (Digital Games)
-- 🎓 **100% Tuition Scholarship** — FPT University (GPA 3.5 / 4.0)
-- 👑 **President** — JS Club Gen 13 (Japanese Software Engineers Club)
+- 🏆 **2nd Place** - Global Game Jam Vietnam 2026 (Digital Games)
+- 🎓 **100% Tuition Scholarship** - FPT University (GPA 3.5 / 4.0)
+- 👑 **President** - JS Club Gen 13 (Japanese Software Engineers Club)
 - 🌐 **Languages & Certs:** IELTS 6.5 | Basic Japanese | English Proficient  
 
 ---

@@ -47,6 +47,9 @@ Unity Developer Intern/Fresher opportunities.
 - Implemented conveyor movement using **ScriptableObjects** and waypoint tracking with perpendicular **Physics2D raycasts**.
 - Optimized runtime instantiation using prewarmed level-aware **Object Pools** for collectors, blocks, audio, and VFX.
 - Built **EditMode/PlayMode unit tests** and 100-cycle object-pool stress scenarios using **NUnit**.
+<p align="center">
+  <img src="Images/PixelFlowClone.gif" alt="Gameplay Demo" width="488" height="858"/>
+</p>
 
 #### 🥇 [Finask](https://github.com/hvu2005/GameJam2026) | [Playable Build](https://s.jsclub.dev/gamejam2026)
 *2D Puzzle Platformer | Global Game Jam 2026 (2nd Place Winner)*

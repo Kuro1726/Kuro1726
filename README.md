@@ -1,15 +1,23 @@
 # 🎮 Unity Developer Intern
 
 <p align="center">
+  <!-- Status Badge -->
+  <img src="https://img.shields.io/badge/Status-Seeking_Unity_Developer_Intern-brightgreen?style=flat-square&logo=unity" alt="Status" />
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Kuro1726&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <!-- Achievement Badges từ CV -->
+  <img src="https://img.shields.io/badge/Award-GGJ_2026_2nd_Place-FFD700?style=flat-square&logo=game-jolt" alt="GGJ 2026 2nd Place" />
+  <img src="https://img.shields.io/badge/GPA-3.5%2F4.0_(100%25_Scholarship)-blue?style=flat-square" alt="GPA" />
+  <img src="https://img.shields.io/badge/IELTS-6.5-orange?style=flat-square" alt="IELTS" />
+</p>
+
+<p align="center">
+  <!-- Social & Portfolio Links -->
   <a href="https://kuro1726.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-kuro1726-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" />
   </a>
   <a href="https://linkedin.com/in/tu-pham-anh-577489335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ph%C6%B0%C6%A1ng_Anh_T%C3%BA-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Kuro1726" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kuro1726-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:anhtupham17.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-anhtupham17.work@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" />

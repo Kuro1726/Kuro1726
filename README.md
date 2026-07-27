@@ -1,13 +1,19 @@
 # 🎮 Unity Developer Intern
-[![Itch.io](https://img.shields.io/badge/Itch.io-kuro1726-FA5C5C?style=flat&logo=itch.io)](https://kuro1726.itch.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ph%C6%B0%C6%A1ng_Anh_T%C3%BA-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tu-pham-anh-577489335)
-[![Email](https://img.shields.io/badge/Email-anhtupham17.work@gmail.com-D14836?style=flat&logo=gmail)](mailto:anhtupham17.work@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuro1726&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  [![Itch.io](https://img.shields.io/badge/Itch.io-kuro1726-FA5C5C?style=flat&logo=itch.io)](https://kuro1726.itch.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ph%C6%B0%C6%A1ng_Anh_T%C3%BA-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tu-pham-anh-577489335)
-  [![Email](https://img.shields.io/badge/Email-anhtupham17.work@gmail.com-D14836?style=flat&logo=gmail)](mailto:anhtupham17.work@gmail.com)
+  <a href="https://kuro1726.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-kuro1726-FA5C5C?style=flat-square&logo=itch.io" alt="Itch.io" />
+  </a>
+  <a href="https://linkedin.com/in/tu-pham-anh-577489335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ph%C6%B0%C6%A1ng_Anh_T%C3%BA-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Kuro1726" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Kuro1726-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:anhtupham17.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anhtupham17.work@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -15,17 +21,6 @@
 ## 👋 About Me
 
 Hi, I'm **Phạm Anh Tú**, a Software Engineering student at **FPT University**, specializing in Game Development.
-
-### Looking For
-
-Unity Developer Intern/Fresher opportunities.
-
-### Currently Learning
-
-- Game Architecture
-- Design Patterns
-- Performance Optimization
-- Multiplayer Fundamentals
 
 ### 🚀 Highlights & Achievements
 - 🏆 **2nd Place** — Global Game Jam Vietnam 2026 (Digital Games)

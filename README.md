@@ -42,6 +42,12 @@ Unity Developer Intern/Fresher opportunities.
 
 ### 🚀 Featured Projects
 
+#### 🎮 [Pixel Flow Clone](https://github.com/Kuro1726/PixelFlowClone) | [Playable Build](https://kuro1726.itch.io/pixel-flow-clone)
+*2D Hyper-casual Puzzle Game | Personal Project (June 2026 – July 2026)*
+- Implemented conveyor movement using **ScriptableObjects** and waypoint tracking with perpendicular **Physics2D raycasts**.
+- Optimized runtime instantiation using prewarmed level-aware **Object Pools** for collectors, blocks, audio, and VFX.
+- Built **EditMode/PlayMode unit tests** and 100-cycle object-pool stress scenarios using **NUnit**.
+
 ####  [Finask](https://github.com/Kuro1726/GameJam2026) (Global Game Jam Vietnam 2026) - **2nd Place**
 * **Role:** Game Designer, Game Developer
 * **Tech:** Unity, C#, Tilemap System, Figma, Miro.

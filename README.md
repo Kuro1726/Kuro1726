@@ -1,4 +1,4 @@
-# 🎮 Unity Developer (Intern/Fresher)
+# 🎮 Unity Developer Intern
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuro1726&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />

@@ -48,23 +48,24 @@ Unity Developer Intern/Fresher opportunities.
 - Optimized runtime instantiation using prewarmed level-aware **Object Pools** for collectors, blocks, audio, and VFX.
 - Built **EditMode/PlayMode unit tests** and 100-cycle object-pool stress scenarios using **NUnit**.
 
-####  [Finask](https://github.com/Kuro1726/GameJam2026) (Global Game Jam Vietnam 2026) - **2nd Place**
-* **Role:** Game Designer, Game Developer
-* **Tech:** Unity, C#, Tilemap System, Figma, Miro.
-* **Key Implementation:** Co-authored the GDD and delivered a playable 2D action-survival game within a 36-hour limit. Implemented core gameplay physics including Double Jump, Teleportation, and Gravity Inversion.
+####  [Finask](https://github.com/hvu2005/GameJam2026) (Global Game Jam Vietnam 2026)
+*2D Puzzle Platformer | Global Game Jam 2026 (2nd Place Winner)*
+- Built modular prefab-based levels using **Unity Tilemap/Grid** with level-loading pipelines backboned by ScriptableObjects.
+- Developed mechanic abilities including **Double Jump, Teleportation,** and **Gravity Inversion**.
 * [Playable Build](https://s.jsclub.dev/gamejam2026)
 
 ####  [LuaLander Clone](https://github.com/Kuro1726/LuaLander) (Personal Project)
-* **Tech:** Unity, C#, Rigidbody2D, UGUI, Singleton Pattern, Finite State Machine (FSM).
-* **Key Implementation:** Built a modular architecture using C# Actions/Events to decouple gameplay logic; calculated spacecraft alignment using `Vector2.Dot`; and managed system lifecycles to completely prevent memory leaks.
+*2D Physics-based Lunar Landing Game | Personal Project (May 2026 – June 2026)*
+- Used **C# Events** and an enum-based **FSM** to decouple gameplay, UI, audio, and VFX systems.
+- Validated landing physics using **Rigidbody2D** impact velocity and orientation alignment (`Vector2.Dot`).
 * [Playable Build](https://kuro1726.itch.io/lua-lander-clone)
 <p align="center">
   <img src="Images/ezgif-1e12c058e6a500fd.gif" alt="Gameplay Demo" width="600"/>
 </p>
 
-####  [Knight Grid's Quest](https://github.com/Kuro1726/KnightGridQuest) (Personal Project)
-* **Tech:** Unity, Grid-based System, Raycast2D & OverlapBox2D, Design Patterns.
-* **Key Implementation:** Designed a custom 2D coordinate system and multi-dimensional matrix to control 1x1 tile grid movement; utilized Raycast2D and OverlapBox2D for puzzle mechanics and environment state interactions.
+#### 🛠 [j-surviv-SDK](https://github.com/fu-js/j-surviv-SDK) | [Demo Video](https://www.youtube.com/watch?v=Fr8sUA8ilgM)
+*Java Bot SDK for Algorithmic Gaming Platform | CodeFest 2025*
+- Built a lightweight Java SDK using **Socket.IO, MessagePack, and Gson** for real-time bot communication and state sync.
 
 ---
 
@@ -76,6 +77,5 @@ Unity Developer Intern/Fresher opportunities.
 
 ---
 
-### 🌟 Leadership & Activities
-* **JS Club (Japanese Software Engineers) - President of Gen 13**: Overseeing overall club operations and academic departments (Web, AI, and Game Dev); led the execution of large-scale technical workshops to drive member growth.
-* Possess strong public speaking (MC) and project management soft skills.
+### 🤝 Leadership & Community
+- **JS Club President (Gen 13):** Led technical workshops in C#, Web, and Game Dev; organized internal game jams for university members.

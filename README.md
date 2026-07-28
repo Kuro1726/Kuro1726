@@ -89,4 +89,4 @@ Hi, I'm **Phạm Anh Tú**, a Software Engineering student at **FPT University**
 ---
 
 ### 🤝 Leadership & Community
-- **JS Club President (Gen 13):** Led technical workshops in C#, Web, and Game Dev; organized internal game jams for university members.
+- **JS Club President (Gen 13):** Led technical workshops and members in C#, Web, and Game Dev.

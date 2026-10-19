@@ -1,4 +1,4 @@
-# 🎮 Unity Developer Intern
+# 🎮 Unity Developer
 
 <p align="center">
   <!-- Status Badge -->
